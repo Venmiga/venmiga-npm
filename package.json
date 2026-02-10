@@ -35,7 +35,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/venmiga/venmiga-sdk.git"
+    "url": "git+https://github.com/Venmiga/venmiga-npm.git"
   },
   "dependencies": {
     "archiver": "^7.0.0"
